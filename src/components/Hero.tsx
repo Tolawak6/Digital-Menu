@@ -71,8 +71,8 @@ export const Hero: React.FC<HeroProps> = ({ onContactUs }) => {
           <span className="text-[#D6B477] font-medium">
             {siteConfig.tagline}
           </span>{' '}
-          {siteConfig.heroSupportingText} All prices are displayed in Ethiopian
-          Birr (ETB).
+          {siteConfig.heroSupportingText} 
+           
         </p>
       </div>
     </section>
